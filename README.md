@@ -7,8 +7,8 @@ Oi!
 <!-- GITHUB STATUS -->
 <div align="center">
   <a href="https://github.com/ofqueiroz">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=ofqueiroz&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ofqueiroz&layout=compact&langs_count=7&theme=gruvbox"/>
+  <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api?username=ofqueiroz&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
+  <img height="180em" width="510em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ofqueiroz&layout=compact&langs_count=7&theme=gruvbox"/>
 </div>
 
   <!-- TEMAS: dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula -->
